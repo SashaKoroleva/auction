@@ -1,7 +1,7 @@
 import { NgModule }      from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import ApplicationComponent from './components/application/application';
-import CarouselComponent from './components/carousel/caroussel';
+import CarouselComponent from './components/carousel/carousel';
 import FooterComponent from './components/footer/footer';
 import NavbarComponent from './components/navbar/navbar';
 import ProductComponent from './components/product-item/product-item';
